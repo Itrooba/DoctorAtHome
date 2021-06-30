@@ -1,4 +1,4 @@
 module.exports = {
-    jwtSecret: 'isf013009052',
+    jwtSecret: 'YourKey',
     jwtExpire: '24h',
 };
